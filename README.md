@@ -1,1 +1,1 @@
-"# IITK-MINI-MIPS" 
+This is an assignment givin in a course CS220 
